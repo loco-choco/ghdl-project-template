@@ -1,0 +1,5 @@
+IO_LOC "i0" D7;
+IO_LOC "i1" T2;
+IO_LOC "ci" T10;
+IO_LOC "s" L14;
+IO_LOC "co" L16;
